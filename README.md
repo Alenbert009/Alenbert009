@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hey there, I'm Sujoy Das</h2>
 
 <p align="center">
-  <b>Data Analyst · B.Tech CSE @ JIS University · Kolkata, India 🇮🇳</b>
+  <b>Aspiring Data Analyst · B.Tech CSE @ JIS University · Kolkata, India 🇮🇳</b>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 I transform raw data into **clear, actionable insights** that drive smart decisions.
 
-Currently pursuing **B.Tech in Computer Science Engineering** at JIS University (graduating 2027), I specialise in end-to-end analytics — from SQL-driven data wrangling and Python EDA to interactive **Power BI & Tableau dashboards**.
+Currently pursuing **B.Tech in Computer Science Engineering** at JIS University (graduating 2027), I specialise in end-to-end analytics — from SQL-driven data wrangling and Python EDA to interactive **Power BI & Excel dashboards**.
 
-I hold an **OCI Data Science Professional** certification from Oracle and have completed a **Deloitte Data Analytics Job Simulation**. Always learning, always building.
+I hold an **OCI Data Science Professional** certification from Oracle and have completed a **Deloitte Data Analytics Job Simulation**. I also performed and gained knowledge about data analysis from my 1 month Internship journey from **Microsoft Elevate(Powered by AICTE)**  on **Power BI-For Business Applications** Always learning, always building.
 
 ---
 
