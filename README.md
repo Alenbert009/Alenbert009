@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-📊-1D9E75?style=flat-square&labelColor=E1F5EE&color=1D9E75" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-📊-1D9E75?style=flat-square&labelColor=E1F5EE&color=1D9E75" />
   <img src="https://img.shields.io/badge/Machine%20Learning-🧠-185FA5?style=flat-square&labelColor=E6F1FB&color=185FA5" />
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-⚡-3B6D11?style=flat-square&labelColor=EAF3DE&color=3B6D11" />
   <img src="https://img.shields.io/badge/CGPA-9.54-854F0B?style=flat-square&labelColor=FAEEDA&color=854F0B" />
