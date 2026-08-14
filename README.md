@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:185FA5,100:854F0B&height=230&section=header&text=Sujoy%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20B.Tech%20CSE%20%40%20JIS%20University&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/sujoydas01">
+<a href="https://linkedin.com/in/Alenbert009">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sujoycomputerscience@gmail.com">
@@ -123,14 +123,19 @@ fun_fact: "I let the data do the talking."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujoydas01&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujoydas01&theme=github-dark-blue&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alenbert009&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alenbert009&theme=github-dark-blue&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujoydas01&layout=compact&theme=github_dark&hide_border=true" width="49%"/>
-<img src="https://github-readme-trophy.vercel.app/?username=sujoydas01&theme=darkhub&no-frame=true&row=1&column=6" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenbert009&layout=compact&theme=github_dark&hide_border=true" width="49%"/>
+<img src="https://github-readme-trophy.vercel.app/?username=Alenbert009&theme=darkhub&no-frame=true&row=1&column=6" width="49%"/>
 
 ### 🌌 3D Contribution Snapshot
-<img src="https://raw.githubusercontent.com/sujoydas01/sujoydas01/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+<!--
+  This image will only appear once the GitHub Action below has run at least once
+  in a repo named exactly "Alenbert009/Alenbert009". Until then, GitHub will just
+  show a broken image icon here — that's expected, not an error in this file.
+-->
+<img src="https://raw.githubusercontent.com/Alenbert009/Alenbert009/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 
 <sub>✨ Generated automatically via the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> GitHub Action — see setup note below.</sub>
 
@@ -156,10 +161,10 @@ fun_fact: "I let the data do the talking."
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujoydas01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alenbert009)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujoycomputerscience@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=sujoydas01&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Alenbert009&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
