@@ -123,10 +123,8 @@ fun_fact: "I let the data do the talking."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alenbert009&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alenbert009&theme=github-dark-blue&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenbert009&layout=compact&theme=github_dark&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alenbert009&theme=github-dark-blue&hide_border=true" width="49%"/>
 <img src="https://github-readme-trophy.vercel.app/?username=Alenbert009&theme=onedark&no-frame=true&row=1&column=6&title=Commits,Stars,Followers,Issues,PullRequest,Repositories&margin-w=8" width="49%"/>
 
 ### 📊 Contribution Activity
@@ -142,7 +140,6 @@ fun_fact: "I let the data do the talking."
   4. Then swap the <img> above back to:
      https://raw.githubusercontent.com/Alenbert009/Alenbert009/main/profile-3d-contrib/profile-night-rainbow.svg
 -->
-<sub>Want the true 3D version? It just needs a one-time GitHub Action setup — see the comment in this file's source, or ask me and I'll walk you through it.</sub>
 
 </div>
 
