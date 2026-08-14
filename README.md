@@ -129,15 +129,20 @@ fun_fact: "I let the data do the talking."
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenbert009&layout=compact&theme=github_dark&hide_border=true" width="49%"/>
 <img src="https://github-readme-trophy.vercel.app/?username=Alenbert009&theme=darkhub&no-frame=true&row=1&column=6" width="49%"/>
 
-### 🌌 3D Contribution Snapshot
-<!--
-  This image will only appear once the GitHub Action below has run at least once
-  in a repo named exactly "Alenbert009/Alenbert009". Until then, GitHub will just
-  show a broken image icon here — that's expected, not an error in this file.
--->
-<img src="https://raw.githubusercontent.com/Alenbert009/Alenbert009/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+### 📊 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alenbert009&theme=github-dark&hide_border=true&area=true" width="90%"/>
 
-<sub>✨ Generated automatically via the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> GitHub Action — see setup note below.</sub>
+<!--
+  Optional upgrade: replace the graph above with a real animated 3D contribution
+  snapshot using https://github.com/yoshi389111/github-profile-3d-contrib
+  1. Add .github/workflows/profile-3d-contrib.yml (template in that repo's README)
+     to your Alenbert009/Alenbert009 repo.
+  2. Let the workflow run once (manually trigger it, or wait for its daily schedule).
+  3. It will generate profile-3d-contrib/profile-night-rainbow.svg in this repo.
+  4. Then swap the <img> above back to:
+     https://raw.githubusercontent.com/Alenbert009/Alenbert009/main/profile-3d-contrib/profile-night-rainbow.svg
+-->
+<sub>Want the true 3D version? It just needs a one-time GitHub Action setup — see the comment in this file's source, or ask me and I'll walk you through it.</sub>
 
 </div>
 
