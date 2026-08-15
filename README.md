@@ -74,29 +74,17 @@ fun_fact: "I let the data do the talking."
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🛒 Customer Shopping Behavior Analysis
 `Python` `PostgreSQL` `Power BI`
 - Analyzed **3,900+ customer transactions**
 - SQL-based revenue analysis & customer segmentation
 - KPI-driven Power BI dashboards using DAX measures
 
-</td>
-<td width="50%">
-
 ### 🏭 Vendor Performance Analysis
 `Python` `SQL` `Power BI`
 - Analyzed vendor sales, purchase & inventory data
 - Solved business problems with complex SQL queries
-- Visual insights via Power BI & Python libraries
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+- Visual insights via Power BI & Python visualization libraries
 
 ### 📍 Regional Sales Analysis
 `Python` `Power BI` `Excel`
@@ -104,18 +92,11 @@ fun_fact: "I let the data do the talking."
 - Analyzed top products & sales channel performance
 - Built dashboards for regional/customer-level insights
 
-</td>
-<td width="50%">
-
 ### 🏦 Banking Domain Analysis
 `Python` `Power BI` `SQL`
-- End-to-end banking analytics project
+- End-to-end banking analytics project using Python, SQL & Power BI
 - Connected & queried data from MySQL
 - EDA on loan/deposit trends + interactive dashboards
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -123,14 +104,16 @@ fun_fact: "I let the data do the talking."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alenbert009&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alenbert009&theme=github-dark-blue&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alenbert009&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="90%" style="max-width:480px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenbert009&layout=compact&theme=github_dark&hide_border=true" width="49%"/>
-<img src="https://github-readme-trophy.vercel.app/?username=Alenbert009&theme=onedark&no-frame=true&row=1&column=6&title=Commits,Stars,Followers,Issues,PullRequest,Repositories&margin-w=8" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Alenbert009&theme=github-dark-blue&hide_border=true" width="90%" style="max-width:480px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenbert009&layout=compact&theme=github_dark&hide_border=true" width="90%" style="max-width:480px"/>
+
+<img src="https://github-readme-trophy.vercel.app/?username=Alenbert009&theme=onedark&no-frame=true&row=2&column=3&title=Commits,Stars,Followers,Issues,PullRequest,Repositories&margin-w=8" width="90%" style="max-width:480px"/>
 
 ### 📊 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alenbert009&theme=github-dark&hide_border=true&area=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alenbert009&theme=react-dark&hide_border=true&area=true" width="95%" style="max-width:700px"/>
 
 <!--
   Optional upgrade: replace the graph above with a real animated 3D contribution
