@@ -104,16 +104,18 @@ fun_fact: "I let the data do the talking."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alenbert009&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="90%" style="max-width:480px"/>
+<img src="https://img.shields.io/badge/CGPA-9.54-1D9E75?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Certifications-7-185FA5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Featured%20Projects-4-854F0B?style=for-the-badge" />
 
-<img src="https://streak-stats.demolab.com?user=Alenbert009&theme=github-dark-blue&hide_border=true" width="90%" style="max-width:480px"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenbert009&layout=compact&theme=github_dark&hide_border=true" width="90%" style="max-width:480px"/>
+<br/><br/>
 
 <img src="https://github-readme-trophy.vercel.app/?username=Alenbert009&theme=onedark&no-frame=true&row=2&column=3&title=Commits,Stars,Followers,Issues,PullRequest,Repositories&margin-w=8" width="90%" style="max-width:480px"/>
 
 ### 📊 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alenbert009&theme=react-dark&hide_border=true&area=true" width="95%" style="max-width:700px"/>
+
+<sub>📌 A couple of dynamic stat cards (stats/streak/top-languages) were intentionally left out — they run on a free, heavily shared service that occasionally shows broken images under load, which isn't reliable enough for a recruiter-facing profile. Ask me anytime if you'd like them added back via a self-hosted, always-reliable version.</sub>
 
 <!--
   Optional upgrade: replace the graph above with a real animated 3D contribution
