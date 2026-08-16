@@ -115,7 +115,6 @@ fun_fact: "I let the data do the talking."
 ### 📊 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alenbert009&theme=react-dark&hide_border=true&area=true" width="95%" style="max-width:700px"/>
 
-<sub>📌 A couple of dynamic stat cards (stats/streak/top-languages) were intentionally left out — they run on a free, heavily shared service that occasionally shows broken images under load, which isn't reliable enough for a recruiter-facing profile. Ask me anytime if you'd like them added back via a self-hosted, always-reliable version.</sub>
 
 <!--
   Optional upgrade: replace the graph above with a real animated 3D contribution
@@ -127,8 +126,6 @@ fun_fact: "I let the data do the talking."
   4. Then swap the <img> above back to:
      https://raw.githubusercontent.com/Alenbert009/Alenbert009/main/profile-3d-contrib/profile-night-rainbow.svg
 -->
-<sub>Want the true 3D version? It just needs a one-time GitHub Action setup — see the comment in this file's source, or ask me and I'll walk you through it.</sub>
-
 </div>
 
 <br/>
@@ -142,6 +139,7 @@ fun_fact: "I let the data do the talking."
 | Data Science with AI | Internshala & NSDC |
 | Power BI Master Class | SkillCourse |
 | 30 Days SQL Micro Course | SkillCourse |
+| Microsoft Excel Beginner to Advanced | SkillCourse |
 | Programming in Java | NPTEL, IIT KGP |
 | Advanced Diploma in Software Development | CSDC Institute, Kolkata |
 
