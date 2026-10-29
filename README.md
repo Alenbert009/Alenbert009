@@ -74,29 +74,29 @@ fun_fact: "I let the data do the talking."
 
 ## 🚀 Featured Projects
 
+### 🎙️ VoxAuth – AI-Generated Speech Detection System
+`Python` `TensorFlow` `Librosa` `FastAPI` `Streamlit`
+- Built a full-stack deep learning app that detects **real vs. AI-generated (deepfake) audio** using a CNN trained on **Mel Spectrogram** features
+- Interactive Streamlit frontend + FastAPI backend supporting **single-file analysis, batch processing, and live microphone detection**
+- Implemented audio visualization, confidence & risk analysis, and **downloadable PDF reports**
+
+### 🌦️ Hyperlocal Climate Risk Predictor — Team Project (5 Members)
+`Python` `Machine Learning` `Folium` `Frontend`
+- Collaborated in a 5-member team on an AI-powered platform for localized weather and environmental risk assessment
+- Developed the **Heat Risk Prediction Model**, **Air Pollution Classification Model**, and **AQI Prediction Model**
+- Built interactive **Folium map visualizations** and enhanced the UI with dynamic weather-change animations
+
 ### 🛒 Customer Shopping Behavior Analysis
 `Python` `PostgreSQL` `Power BI`
 - Analyzed **3,900+ customer transactions**
 - SQL-based revenue analysis & customer segmentation
 - KPI-driven Power BI dashboards using DAX measures
 
-### 🏭 Vendor Performance Analysis
-`Python` `SQL` `Power BI`
-- Analyzed vendor sales, purchase & inventory data
-- Solved business problems with complex SQL queries
-- Visual insights via Power BI & Python visualization libraries
-
 ### 📍 Regional Sales Analysis
 `Python` `Power BI` `Excel`
 - Cleaned & analyzed sales data for seasonal trends
 - Analyzed top products & sales channel performance
 - Built dashboards for regional/customer-level insights
-
-### 🏦 Banking Domain Analysis
-`Python` `Power BI` `SQL`
-- End-to-end banking analytics project using Python, SQL & Power BI
-- Connected & queried data from MySQL
-- EDA on loan/deposit trends + interactive dashboards
 
 <br/>
 
@@ -112,20 +112,14 @@ fun_fact: "I let the data do the talking."
 
 <img src="https://github-readme-trophy.vercel.app/?username=Alenbert009&theme=onedark&no-frame=true&row=2&column=3&title=Commits,Stars,Followers,Issues,PullRequest,Repositories&margin-w=8" width="90%" style="max-width:480px"/>
 
-### 📊 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alenbert009&theme=react-dark&hide_border=true&area=true" width="95%" style="max-width:700px"/>
+### 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alenbert009/Alenbert009/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alenbert009/Alenbert009/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Alenbert009/Alenbert009/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake animation" />
+</picture>
 
-<!--
-  Optional upgrade: replace the graph above with a real animated 3D contribution
-  snapshot using https://github.com/yoshi389111/github-profile-3d-contrib
-  1. Add .github/workflows/profile-3d-contrib.yml (template in that repo's README)
-     to your Alenbert009/Alenbert009 repo.
-  2. Let the workflow run once (manually trigger it, or wait for its daily schedule).
-  3. It will generate profile-3d-contrib/profile-night-rainbow.svg in this repo.
-  4. Then swap the <img> above back to:
-     https://raw.githubusercontent.com/Alenbert009/Alenbert009/main/profile-3d-contrib/profile-night-rainbow.svg
--->
 </div>
 
 <br/>
@@ -139,7 +133,6 @@ fun_fact: "I let the data do the talking."
 | Data Science with AI | Internshala & NSDC |
 | Power BI Master Class | SkillCourse |
 | 30 Days SQL Micro Course | SkillCourse |
-| Microsoft Excel Beginner to Advanced | SkillCourse |
 | Programming in Java | NPTEL, IIT KGP |
 | Advanced Diploma in Software Development | CSDC Institute, Kolkata |
 
