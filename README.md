@@ -26,6 +26,8 @@ Currently pursuing **B.Tech in Computer Science Engineering** at JIS University 
 - 🎓 **OCI Data Science Professional** — Oracle University
 - 💼 **Data Analytics Job Simulation** — Deloitte
 - ⚡ **1-month Internship** — Microsoft Elevate *(Powered by AICTE)*, Power BI for Business Applications
+- ⚡ **2-month Internship** — VOIS(Vodafone for Idea Foundation) *(Powered by AICTE)*, Data Analyst Intern
+- ⚡ **1-month Internship** — BharatCares *(Powered by AICTE & IBM)*, Data Analyst with AI
 - 📈 Currently sharpening: advanced DAX, statistical modeling & ML pipelines
 - 🌱 Always learning, always building
 
